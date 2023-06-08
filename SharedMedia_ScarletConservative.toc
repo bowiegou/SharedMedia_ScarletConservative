@@ -1,6 +1,6 @@
 ## Interface: 100100
-## Title: |c0092FF00SC 语音包|r
-## Version: 1.0
+## Title: |c0092FF00SC Soundpack|r
+## Version: 1.0.2
 ## Notes: The one and only official soundpack from Scarlet Conservative.
 
 libs\LibStub\LibStub.lua
